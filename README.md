@@ -1,6 +1,6 @@
 # get_next_line
 
-Project proposed by [42](42.fr).
+Project proposed by [42](https://www.42.fr/).
 
 Consists of a function that returns a line read from a file descriptor (without the '\n'). A very useful tool for the following projects of the common circle, whenever reading from a file or fro standard input.
 
